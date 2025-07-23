@@ -1,0 +1,8 @@
+gradio==4.29.0
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+scikit-learn
