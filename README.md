@@ -26,7 +26,7 @@ The final model (Random Forest Classifier) achieved ~82% accuracy with strong pr
 
 ---
 
-**Author:** Amna ViBi  
+**Author:** Amna BiBi  
 **License:** MIT  
 
 
