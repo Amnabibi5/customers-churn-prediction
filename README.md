@@ -3,7 +3,7 @@
 A comprehensive machine learning project that predicts customer churn using advanced techniques, including SMOTE for data balancing, hyperparameter tuning, and a production-ready Streamlit deployment.
 
 
-
+🔗 **Live App**: [Streamlit Dashboard](https://customers-churn-prediction-vcjsmgwldg9ssmaevz47ae.streamlit.app/)  
 ![Streamlit](https://customers-churn-prediction-vcjsmgwldg9ssmaevz47ae.streamlit.app/)
 
 ## 🎯 Overview
