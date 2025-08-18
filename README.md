@@ -4,7 +4,7 @@ A comprehensive machine learning project that predicts customer churn using adva
 
 
 🔗 **Live App**: [Streamlit Dashboard](https://customers-churn-prediction-vcjsmgwldg9ssmaevz47ae.streamlit.app/)  
-![Streamlit](https://customers-churn-prediction-vcjsmgwldg9ssmaevz47ae.streamlit.app/)
+![Streamlit](images/churnapp_screenshot.png)
 
 ## 🎯 Overview
 
